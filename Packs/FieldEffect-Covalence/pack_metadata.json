@@ -1,0 +1,19 @@
+{
+    "name": "Covalence",
+    "description": "Covalence allows you to see your entire network in real time with powerful monitoring and analytics to measure, manage and reduce the attackable points in your network.",
+    "support": "developer",
+    "currentVersion": "1.0.0",
+    "author": "Field Effect Security",
+    "url": "https://fieldeffect.com",
+    "email": "support@fieldeffect.com",
+    "categories": [
+        "Analytics & SIEM",
+        "Network Security"
+    ],
+    "tags": [],
+    "created": "2021-06-01T00:00:00Z",
+    "useCases": [],
+    "keywords": [],
+    "dependencies": {},
+    "displayedImages": []
+}
